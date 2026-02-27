@@ -39,5 +39,5 @@ Se realizaron tres pruebas fundamentales para comprobar el funcionamiento:
 
 ---
 ### Datos Institucionales
-**Instituto Tecnológico de Software** **CCT:** 31PSU0097H  
+**Instituto Tecnológico de Software**
 **Fecha de presentación:** Viernes 27 de febrero de 2026
