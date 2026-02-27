@@ -4,7 +4,6 @@
 Implementar un grafo con lista de adyacencia y aplicar una coloración de vértices con un método **greedy** (voraz).
 
 ## 2. Requisitos de Implementación
-El proyecto cumple con los siguientes puntos técnicos:
 
 * **Estructura Graph:** Implementada mediante listas de adyacencia utilizando diccionarios: `{vertice: [vecinos]}`.
 * **Métodos Principales:**
